@@ -1,3 +1,5 @@
+package neb.nooc;
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;
